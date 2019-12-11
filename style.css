@@ -1,0 +1,13 @@
+.error{
+  color: red;
+}
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+.nav-link{
+  padding: 1rem 2rem 1rem 0;
+}
+footer p{
+  margin-bottom: 0;
+}
